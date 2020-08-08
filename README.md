@@ -8,4 +8,4 @@ The positive change is formatted with a green internal color, and the negative c
 
 Additionally the stocks with the greatest % increase, greatest % decrease, and greatest total volume for each year can be found in a summary table adjacent to the yearly summary table. 
 
-A Sceenshot of the spreedsheet for each year analyzed can be found in the subsiquent files. 
+A Sceenshot of the spreedsheet for each year analyzed can be found in the subsiquent results files. 2014, 2015, and 2016. 
